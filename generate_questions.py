@@ -6,7 +6,7 @@ import numpy as np
 import time
 import sys
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 def get_relevant_context(df, topic, n=3):
 
