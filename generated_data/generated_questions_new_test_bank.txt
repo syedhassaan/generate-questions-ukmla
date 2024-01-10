@@ -1,0 +1,59 @@
+1. A 35-year-old woman presents to the accident and emergency department with severe abdominal pain that started suddenly a few hours ago. She describes the pain as sharp and constant in nature, located mainly on her right lower quadrant. Her last menstrual period was three weeks ago, and she is sexually active with her partner but uses condoms for contraception. On physical examination, there is tenderness on palpation over McBurney's point, rebound tenderness, guarding on deep palpation of the abdomen and involuntary guarding especially when trying to move her legs against resistance (psoas sign) or passively extending the hip joint while flexing at the knee (obturator sign). White blood cell count shows leukocytosis with neutrophilia. The most likely diagnosis in this patient is:
+
+A) Inflammatory bowel disease
+B) Ectopic pregnancy
+C) Acute pancreatitis 
+D) Appendicitis 
+E) Diverticulitis
+
+Correct answer: D 
+
+Explanation: This patient has developed acute appendicitis which typically manifests as sudden onset abdominal pain usually starting around periumbilical area then migrates towards right lower quadrant accompanied by nausea/vomiting/anorexia/low-grade fever; signs like localised tenderness over McBurney’s point/rebound/guarding/psoas & obturator signs are also present in classic cases.
+
+2. A 68-year-old man presents to his GP clinic for his yearly check-up complaining of worsening constipation over several months despite increasing fibre intake and water consumption along with occasional bright red rectal bleeding noticed during defecation episodes without mucus discharge or frank haematochezia noted lately; he denies any weight loss/appetite changes/diarrhoea/bloating/abdominal discomfort or any other gastrointestinal symptoms besides these two issues mentioned earlier; he also reports no family history of colorectal cancer/polyps/inflammatory bowel disease/crohn’s disease/ulcerative colitis. Physical examination is normal except for a palpable non-tender mass in the rectum ~2cm from anal verge that appears to be circumferential and not mobile on digital rectal exam. Which of the following would be most appropriate next step?
+
+A) Refer patient to gastroenterologist for colonoscopy
+B) Order CT scan of abdomen/pelvis with IV contrast 
+C) Initiate empiric antibiotics therapy 
+D) Perform a flexible sigmoidoscopy
+E) Start stool softeners/laxatives
+
+Correct answer: A 
+
+Explanation: This elderly man presents with long-standing constipation along with occasional bright red blood per rectum which raises concern for underlying colorectal malignancy; physical exam reveals presence of an approximately 2 cm circumferential nontender fixed mass located within the distal reach of finger on digital rectal examination (DRE); therefore, he should undergo further evaluation including diagnostic imaging tests such as colonoscopy or CT scan.
+
+3. A 25-year-old woman presents to her GP clinic complaining of recurrent episodes of abdominal bloating/distention/cramping/discomfort over past year mainly around menstrual cycle time accompanied by diarrhoea alternating with constipation but no nausea/vomiting/fever/melena/gross haematochezia noted so far; she also reports missing several periods lately despite regular cycles before this issue started happening frequently; she denies any significant medical history/family history/smoking/alcohol consumption/drug use besides occasional ibuprofen intake during menstruation times only as needed basis. On physical examination, there are no remarkable findings except some mild tenderness on deep palpation over lower quadrants especially left side without guarding/rebound signs nor hepatosplenomegaly/jaundice/pallor/rashes/stigmata noticed at all upon inspection or auscultation. Stool studies including faecal leukocytes, ova/parasites, and C.difficile toxin are all negative. The most likely diagnosis in this patient is:
+
+A) Irritable bowel syndrome
+B) Crohn’s disease 
+C) Celiac Disease 
+D) Ulcerative colitis 
+E) Diverticular disease
+
+Correct answer: A 
+
+Explanation: This young woman presents with a clinical picture of irritable bowel syndrome (IBS); she has recurrent episodes of abdominal bloating/distention/cramping/discomfort over past year mainly around menstrual cycle time accompanied by diarrhoea alternating with constipation but no nausea/vomiting/fever/melena/gross haematochezia noted so far; furthermore, stool studies including faecal leukocytes, ova/parasites, and C.difficile toxin are all negative ruling out other possible causes.
+
+4. A 35-year-old woman presents to the accident and emergency department with a sudden onset of severe abdominal pain and fever. She has no significant medical history, but reports recent travel to South America where she had consumed local foods and drinks. Her vital signs are within normal limits except for a temperature of 39°C (102°F). Abdominal examination is remarkable for diffuse tenderness without rebound or guarding. Laboratory studies show elevated white blood cell count, elevated C-reactive protein, and hyponatraemia with hyperkalaemia. CT scan shows thickening of the small intestinal wall with mesenteric oedema consistent with inflammation or infection in the bowel lumen. Which of the following is most likely responsible for her symptoms?
+
+A) Ulcerative colitis
+B) Crohn's disease
+C) Ischaemic bowel disease
+D) Enterotoxigenic E.coli infection
+E) Clostridium difficile colitis
+
+Correct answer: D
+
+Explanation: The patient’s presentation suggests acute infectious gastroenteritis caused by enterotoxigenic Escherichia coli (ETEC), which commonly causes travellers’ diarrhoea after ingestion of contaminated food or water in developing countries like South America.
+
+5. A 61-year-old man was admitted to hospital because he developed recurrent episodes of jaundice associated with upper abdominal discomfort over several months; his past medical history includes hypertension treated medically and chronic alcohol abuse that he denies presently consuming any alcoholic beverages at all . On physical examination there were multiple spider angiomas on his chest wall along with hepatosplenomegaly; laboratory results showed conjugated hyperbilirubinaemia , increased alkaline phosphatase levels as well as high GGT levels while other liver function test results were relatively less affected.To differentiate between different aetiological possibilities what would be an appropriate next step? 
+
+A- Liver biopsy 
+B- MRCP 
+C - ERCP 
+D- CT scan of the abdomen and pelvis
+E - Upper endoscopy 
+
+Correct answer: B
+
+Explanation: The clinical picture along with laboratory results raise suspicion for biliary obstruction which commonly can be due to choledocholithiasis, cholangiocarcinoma or pancreatic head malignancy. MRCP is a non-invasive diagnostic tool that provides high-quality images of the biliary tree and pancreas; it would help in identifying any dilated bile ducts as well as any structural abnormalities in the region without undue risk associated with ERCP or liver biopsy.

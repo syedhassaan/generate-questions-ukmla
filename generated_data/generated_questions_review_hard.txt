@@ -1,0 +1,470 @@
+
+Original Question: 
+
+ A 24 year old man has poor urine flow and takes a very long time to empty his 
+bladder. He has no other urinary symptoms. He has been well previously 
+apart from one episode of non -gonococcal urethritis 1 year ago.  
+Which is the most likely diagnosis?  
+A. Overactive bladder  
+B. Neurogenic bladder  
+C. Phimosis  
+D. Prostatic hypertrophy  
+E. Urethral stricture  
+Correct Answer : E 
+  
+Generated Questions:
+
+1. A 60 year old man presents with difficulty in initiating urination and a weak urine stream. He also complains of nocturia and urgency. Which of the following is the most likely diagnosis?
+A. Bladder cancer
+B. Neurogenic bladder
+C. Overactive bladder
+D. Prostatic hypertrophy
+E. Urethral stricture
+Correct Answer: D
+
+2. A 35 year old woman presents with recurrent urinary tract infections. She complains of dysuria, frequency and urgency. Urine culture shows Escherichia coli. Which of the following is the most appropriate management?
+A. Antibiotic prophylaxis
+B. Bladder training
+C. Cystoscopy
+D. Urethral dilation
+E. Urethral stent placement
+Correct Answer: A
+
+3. A 50 year old man presents with sudden onset of severe flank pain, nausea and vomiting. He has a history of recurrent kidney stones. Which of the following is the most likely diagnosis?
+A. Bladder cancer
+B. Neurogenic bladder
+C. Overactive bladder
+D. Renal cell carcinoma
+E. Ureteric stone
+Correct Answer: E
+
+4. A 70 year old man presents with hematuria and dysuria. He has a history of smoking and exposure to industrial chemicals. Which of the following is the most likely diagnosis?
+A. Bladder cancer
+B. Neurogenic bladder
+C. Overactive bladder
+D. Prostatic hypertrophy
+E. Urethral stricture
+Correct Answer: A
+
+5. A 25 year old woman presents with urinary incontinence. She reports leakage of urine with coughing, sneezing and laughing. Which of the following is the most likely diagnosis?
+A. Bladder cancer
+B. Neurogenic bladder
+C. Overactive bladder
+D. Stress urinary incontinence
+E. Urge urinary incontinence
+Correct Answer: D
+
+Original Question: 
+
+ A 67 year old man is found to have an ejection s ystolic murmur. He is 
+otherwise well. His pulse rate is 72 bpm and BP 128/84 mmHg. His chest is 
+clear.  
+ 
+Investigations:  
+ECG shows sinus rhythm.  
+Echocardiography shows aortic stenosis, valve gradient 50 mmHg. Left 
+ventricular (LV) diastolic dysfunction, LV ejection fraction 45% (>55).  
+Which is the most appropriate management?  
+A. Clinical review and echocardiography in 6 months  
+B. Reassure and discharge  
+C. Refer for aortic valve replacement  
+D. Start bisoprolol fumarate and advise review if symptomatic  
+E. Start lisinopril  and advise review if symptomatic  
+Correct Answer : C 
+  
+Generated Questions:
+
+1. A 45-year-old woman presents with a history of recurrent chest pain on exertion. Her ECG shows sinus rhythm and echocardiography reveals a left anterior descending artery stenosis of 70%. Which is the most appropriate management?
+A. Clinical review and echocardiography in 6 months
+B. Reassure and discharge
+C. Refer for coronary angiography and possible percutaneous coronary intervention
+D. Start aspirin and advise review if symptomatic
+E. Start atorvastatin and advise review if symptomatic
+Correct Answer: C
+
+2. A 60-year-old man presents with shortness of breath and ankle swelling. His ECG shows atrial fibrillation and echocardiography reveals a dilated left atrium and left ventricle with an ejection fraction of 35%. Which is the most appropriate management?
+A. Clinical review and echocardiography in 6 months
+B. Reassure and discharge
+C. Refer for cardiac resynchronization therapy
+D. Start furosemide and advise review if symptomatic
+E. Start warfarin and advise review if symptomatic
+Correct Answer: C
+
+3. A 55-year-old man presents with a history of palpitations and dizziness. His ECG shows a regular narrow complex tachycardia. Which is the most appropriate management?
+A. Clinical review and echocardiography in 6 months
+B. Reassure and discharge
+C. Refer for electrophysiological study and possible ablation
+D. Start verapamil and advise review if symptomatic
+E. Start amiodarone and advise review if symptomatic
+Correct Answer: C
+
+4. A 70-year-old woman presents with new onset dyspnea and chest pain. Her ECG shows ST elevation in leads II, III, and aVF. Which is the most appropriate management?
+A. Clinical review and echocardiography in 6 months
+B. Reassure and discharge
+C. Refer for urgent coronary angiography and possible percutaneous coronary intervention
+D. Start aspirin and advise review if symptomatic
+E. Start heparin and advise review if symptomatic
+Correct Answer: C
+
+5. A 50-year-old man presents with a history of syncope. His ECG shows sinus bradycardia with a heart rate of 40 bpm. Which is the most appropriate management?
+A. Clinical review and echocardiography in 6 months
+B. Reassure and discharge
+C. Refer for electrophysiological study and possible pacemaker implantation
+D. Start atropine and advise review if symptomatic
+E. Start digoxin and advise review if symptomatic
+Correct Answer: C
+
+Original Question: 
+
+ A 27 year old woman has muscle weakness which is worse on exercise. 
+When asked to count from one to 100 her voice progressive ly becomes 
+weaker. She has bilateral ptosis.  
+Which pathophysiological process is most likely to be responsible for this disorder?  
+A. Autoimmunity  
+B. Genetic disorder  
+C. Infarction  
+D. Malignancy  
+E. Meningeal infection  
+Correct Answer : A 
+  
+Generated Questions:
+
+1. A 45 year old man presents with sudden onset of severe headache, vomiting and neck stiffness. On examination, he has photophobia and positive Kernig's sign. Which pathophysiological process is most likely to be responsible for this disorder?
+A. Autoimmunity
+B. Genetic disorder
+C. Infarction
+D. Malignancy
+E. Meningeal infection
+Correct Answer: E
+
+2. A 32 year old woman presents with recurrent episodes of abdominal pain, diarrhea and weight loss. On examination, she has oral ulcers and erythema nodosum. Which pathophysiological process is most likely to be responsible for this disorder?
+A. Autoimmunity
+B. Genetic disorder
+C. Infarction
+D. Malignancy
+E. Meningeal infection
+Correct Answer: A
+
+3. A 60 year old man presents with sudden onset of left-sided weakness and slurred speech. On examination, he has a facial droop and weakness of the left upper and lower limbs. Which pathophysiological process is most likely to be responsible for this disorder?
+A. Autoimmunity
+B. Genetic disorder
+C. Infarction
+D. Malignancy
+E. Meningeal infection
+Correct Answer: C
+
+4. A 25 year old man presents with recurrent episodes of joint pain and swelling, along with a rash on his face and arms. On examination, he has a malar rash and joint tenderness. Which pathophysiological process is most likely to be responsible for this disorder?
+A. Autoimmunity
+B. Genetic disorder
+C. Infarction
+D. Malignancy
+E. Meningeal infection
+Correct Answer: A
+
+5. A 70 year old woman presents with progressive memory loss and difficulty with daily activities. On examination, she has impaired cognitive function and difficulty with language. Which pathophysiological process is most likely to be responsible for this disorder?
+A. Autoimmunity
+B. Genetic disorder
+C. Infarction
+D. Malignancy
+E. Meningeal infection
+Correct Answer: B
+
+Original Question: 
+
+ A 60 year old man has 6 mont hs of dry cough and increasing shortness of 
+breath on effort. He was previously fit and well, and is a non -smoker.   
+ 
+His temperature is 36.8°C, pulse rate 60 bpm and  oxygen saturation 89% 
+breathing  air. 
+ 
+He has finger clubbing. Cardiac examination is norm al, and chest examination 
+reveals bibasal crepitations.  
+Which is the most likely diagnosis?  
+A. Bronchiectasis  
+B. Extrinsic allergic alveolitis  
+C. Idiopathic pulmonary fibrosis  
+D. Lung carcinoma  
+E. Pulmonary tuberculosis  
+Correct Answer : C 
+  
+Generated Questions:
+
+1. A 45-year-old woman presents with a persistent dry cough and increasing dyspnea on exertion. She has a history of rheumatoid arthritis and is currently on methotrexate. Her temperature is 37°C, pulse rate 90 bpm, and oxygen saturation 92% breathing air. Chest examination reveals bilateral fine inspiratory crackles. Which is the most likely diagnosis?
+A. Acute bronchitis
+B. Cryptogenic organizing pneumonia
+C. Pulmonary embolism
+D. Sarcoidosis
+E. Systemic lupus erythematosus
+Correct Answer: B
+
+2. A 55-year-old man presents with a chronic cough and dyspnea on exertion. He has a history of smoking for 30 years and quit 5 years ago. His temperature is 36.5°C, pulse rate 80 bpm, and oxygen saturation 93% breathing air. Chest examination reveals decreased breath sounds and dullness to percussion over the right lower lung field. Which is the most likely diagnosis?
+A. Acute bronchitis
+B. Chronic obstructive pulmonary disease
+C. Lung abscess
+D. Pneumonia
+E. Pulmonary embolism
+Correct Answer: C
+
+3. A 65-year-old man presents with a dry cough and progressive dyspnea on exertion. He has a history of asbestos exposure and is a current smoker. His temperature is 37°C, pulse rate 70 bpm, and oxygen saturation 91% breathing air. Chest examination reveals bibasal crackles. Which is the most likely diagnosis?
+A. Asbestosis
+B. Bronchiectasis
+C. Chronic obstructive pulmonary disease
+D. Idiopathic pulmonary fibrosis
+E. Lung cancer
+Correct Answer: A
+
+4. A 50-year-old woman presents with a dry cough and dyspnea on exertion. She has a history of exposure to birds and their droppings. Her temperature is 37.2°C, pulse rate 80 bpm, and oxygen saturation 94% breathing air. Chest examination reveals bilateral wheezing. Which is the most likely diagnosis?
+A. Acute bronchitis
+B. Asthma
+C. Extrinsic allergic alveolitis
+D. Pneumonia
+E. Pulmonary embolism
+Correct Answer: C
+
+5. A 70-year-old man presents with a chronic cough and dyspnea on exertion. He has a history of smoking for 50 years and quit 10 years ago. His temperature is 36.8°C, pulse rate 90 bpm, and oxygen saturation 90% breathing air. Chest examination reveals decreased breath sounds and dullness to percussion over the left lung base. Which is the most likely diagnosis?
+A. Chronic obstructive pulmonary disease
+B. Lung abscess
+C. Pneumonia
+D. Pulmonary embolism
+E. Lung cancer
+Correct Answer: E
+
+Original Question: 
+
+ A 46 year old man has pain in his left leg and tingling in his left big toe. He 
+developed severe lower back pain 1 week ago and he is unable to walk on his 
+left heel. There is  loss of pinprick perception over the left great toe.  
+Which nerve root is the most likely to have been affected?  
+A. L1  
+B. L3  
+C. L5  
+D. S1  
+E. S2  
+Correct Answer : C 
+  
+Generated Questions:
+
+1. A 32-year-old woman presents with a sudden onset of severe headache, neck stiffness, and photophobia. Lumbar puncture reveals elevated opening pressure and cerebrospinal fluid with lymphocytic pleocytosis. Which of the following is the most likely diagnosis?
+A. Meningitis
+B. Encephalitis
+C. Brain abscess
+D. Subarachnoid hemorrhage
+E. Cerebral venous thrombosis
+Correct Answer: A
+
+2. A 50-year-old man presents with a 3-month history of progressive difficulty in initiating and maintaining sleep, daytime fatigue, and irritability. He has no significant medical history and is not taking any medications. Which of the following is the most appropriate initial management?
+A. Cognitive-behavioral therapy
+B. Melatonin
+C. Benzodiazepines
+D. Antidepressants
+E. Antipsychotics
+Correct Answer: A
+
+3. A 65-year-old man presents with a 2-day history of sudden onset right-sided weakness and slurred speech. CT scan of the brain shows a left middle cerebral artery infarct. Which of the following is the most appropriate management?
+A. Intravenous thrombolysis
+B. Antiplatelet therapy
+C. Anticoagulation therapy
+D. Carotid endarterectomy
+E. Angioplasty and stenting
+Correct Answer: A
+
+4. A 30-year-old woman presents with a 1-week history of fever, headache, and a rash on her trunk and extremities. Blood tests show thrombocytopenia and elevated liver enzymes. Which of the following is the most likely diagnosis?
+A. Rocky Mountain spotted fever
+B. Lyme disease
+C. Dengue fever
+D. Malaria
+E. Typhoid fever
+Correct Answer: A
+
+5. A 70-year-old man presents with a 6-month history of progressive memory loss and difficulty with daily activities. On examination, he has impaired short-term memory and difficulty with language and visuospatial tasks. MRI of the brain shows atrophy of the temporal and parietal lobes. Which of the following is the most likely diagnosis?
+A. Alzheimer's disease
+B. Vascular dementia
+C. Lewy body dementia
+D. Frontotemporal dementia
+E. Parkinson's disease dementia
+Correct Answer: A
+
+Original Question: 
+
+ A 65 year old man attends the anticoagulant clinic. He has had a metal mitral 
+valve replacement and atrial fibrillation. He takes warfarin 7 mg daily.  
+ 
+There are no signs of bleeding. His pulse rate is 70 bpm, irregularly irregular, 
+with a mechanical second heart sound.  His INR is 5.1.  
+Which is the most appropriate next step in management?  
+A. Continue warfarin  at lower dose  
+B. Continue warfarin at same dose  
+C. Give vitamin K intravenously  
+D. Give vitamin K orall y  
+E. Withhold warfarin for 2 days then restart at lower dose  
+Correct Answer : E 
+  
+Generated Questions:
+
+1. A 45-year-old woman presents with a history of recurrent deep vein thrombosis. She is currently on warfarin 5 mg daily and her INR is 2.8. What is the most appropriate next step in management?
+A. Increase warfarin dose to 7 mg daily
+B. Switch to a direct oral anticoagulant (DOAC)
+C. Add low-dose aspirin to her regimen
+D. Monitor INR weekly
+E. Discontinue warfarin and start heparin therapy
+
+Correct Answer: B
+
+2. A 60-year-old man with a history of stroke and atrial fibrillation is started on warfarin therapy. His INR is monitored and found to be consistently subtherapeutic. Which of the following is the most appropriate next step in management?
+A. Increase warfarin dose
+B. Switch to a DOAC
+C. Add low-dose aspirin to his regimen
+D. Monitor INR more frequently
+E. Discontinue warfarin and start heparin therapy
+
+Correct Answer: D
+
+3. A 70-year-old man with a history of pulmonary embolism is started on warfarin therapy. He presents with signs of bleeding and his INR is found to be 6.0. What is the most appropriate next step in management?
+A. Continue warfarin at same dose
+B. Decrease warfarin dose
+C. Give vitamin K orally
+D. Give vitamin K intravenously
+E. Discontinue warfarin and start heparin therapy
+
+Correct Answer: D
+
+4. A 55-year-old woman with a history of atrial fibrillation is started on a DOAC. She presents with signs of bleeding and her coagulation profile is abnormal. What is the most appropriate next step in management?
+A. Continue DOAC at same dose
+B. Decrease DOAC dose
+C. Give vitamin K orally
+D. Give vitamin K intravenously
+E. Discontinue DOAC and start heparin therapy
+
+Correct Answer: E
+
+5. A 50-year-old man with a history of deep vein thrombosis is started on heparin therapy. He develops heparin-induced thrombocytopenia (HIT). What is the most appropriate next step in management?
+A. Continue heparin therapy
+B. Switch to warfarin therapy
+C. Switch to a DOAC
+D. Start low-molecular-weight heparin therapy
+E. Discontinue heparin therapy and start a non-heparin anticoagulant
+
+Correct Answer: E
+
+Original Question: 
+
+ A 52 year old man has three days of severe epigastric pain, radiating to his 
+back, but no chest pain. He has vomited several times. He was previously 
+well. He drinks approximat ely 60 units of alcohol a week and smokes 20 
+cigarettes per day.  
+ 
+There is epigastric tenderness but his abdomen is not distended, and bowel 
+sounds are present.  
+Which test would confirm the most likely diagnosis?  
+A. Abdominal X -ray  
+B. Gastroduodenoscopy  
+C. Serum  alkaline phosphatase concentration  
+D. Serum amylase concentration  
+E. Ultrasound scan of abdomen  
+Correct Answer : D 
+  
+Generated Questions:
+
+1. A 35-year-old female presents with a sudden onset of severe headache, nausea, and vomiting. She has a history of migraines but this episode is different. On examination, she has a stiff neck and photophobia. Which test would confirm the most likely diagnosis?
+A. CT scan of the head
+B. MRI of the head
+C. Lumbar puncture
+D. EEG
+E. Blood culture
+Correct Answer: C
+
+2. A 65-year-old male presents with a 2-week history of progressive dyspnea on exertion and dry cough. He has a history of smoking for 40 years. On examination, there are bilateral crackles heard on auscultation. Which test would confirm the most likely diagnosis?
+A. Chest X-ray
+B. Echocardiogram
+C. Pulmonary function test
+D. CT scan of the chest
+E. Bronchoscopy
+Correct Answer: D
+
+3. A 28-year-old female presents with a 2-day history of fever, sore throat, and swollen lymph nodes in the neck. On examination, there are white patches on the tonsils and pharynx. Which test would confirm the most likely diagnosis?
+A. Throat culture
+B. Blood culture
+C. Chest X-ray
+D. CT scan of the neck
+E. Ultrasound of the neck
+Correct Answer: A
+
+4. A 45-year-old male presents with a 6-month history of abdominal pain, diarrhea, and weight loss. On examination, there is tenderness in the right lower quadrant of the abdomen. Which test would confirm the most likely diagnosis?
+A. Colonoscopy
+B. CT scan of the abdomen
+C. Upper endoscopy
+D. Stool culture
+E. Barium enema
+Correct Answer: B
+
+5. A 50-year-old male presents with a 1-week history of painless hematuria. He has a history of smoking for 30 years. On examination, there are no palpable masses in the abdomen or pelvis. Which test would confirm the most likely diagnosis?
+A. Urine culture
+B. CT scan of the abdomen and pelvis
+C. Cystoscopy
+D. MRI of the pelvis
+E. Ultrasound of the kidneys and bladder
+Correct Answer: C
+
+Original Question: 
+
+ A 24 year old man  attends the Emergency Department after 2 days of 
+vomiting. He has  type 1 diabetes. He is drowsy but maintaining his airway. His 
+pulse rate is 100 bpm, BP 90/60 mmHg, respiratory rate 30 breaths per 
+minute and oxygen saturation 96% breathing air.  
+ 
+Investigations:  
+Blood capillary glucose 32 mmol/L   
+Blood capillary ketones 6.2 mmol/L  (<0.6)  
+Venous pH 7.15 (7.35 –7.45)  
+Which  is the most appropriate initial treatment?  
+A. Intravenous 0.9% sodium chloride  
+B. Intravenous 1.26% sodium bicarbonate  
+C. Intravenous antibiotics  
+D. Intravenous insulin  
+E. Subcutaneous insulin  
+Correct Answer : A 
+  
+Generated Questions:
+
+1. A 45-year-old woman presents with a 2-day history of fever, cough, and shortness of breath. She has a history of hypertension and is currently taking lisinopril. On examination, her temperature is 38.5°C, respiratory rate is 24 breaths per minute, oxygen saturation is 92% on room air, and lung auscultation reveals crackles in the right lower lobe. Chest X-ray shows consolidation in the right lower lobe. Which of the following is the most appropriate initial treatment?
+A. Intravenous ceftriaxone and azithromycin
+B. Intravenous vancomycin and piperacillin-tazobactam
+C. Oral amoxicillin-clavulanate
+D. Oral azithromycin
+E. Oral doxycycline
+Correct Answer: A
+
+2. A 65-year-old man with a history of chronic obstructive pulmonary disease (COPD) presents with worsening shortness of breath and productive cough for the past 3 days. On examination, his respiratory rate is 28 breaths per minute, oxygen saturation is 88% on room air, and lung auscultation reveals diffuse wheezing and crackles. Arterial blood gas analysis shows pH 7.30, PaCO2 60 mmHg, and PaO2 55 mmHg. Which of the following is the most appropriate initial treatment?
+A. Intravenous methylprednisolone and albuterol nebulizer
+B. Intravenous ceftriaxone and azithromycin
+C. Intravenous vancomycin and piperacillin-tazobactam
+D. Oral prednisone and albuterol inhaler
+E. Oxygen supplementation and albuterol nebulizer
+Correct Answer: E
+
+3. A 55-year-old man with a history of alcohol abuse presents with abdominal pain, nausea, and vomiting for the past 2 days. On examination, his abdomen is tender in the epigastric region with guarding and rebound tenderness. Laboratory tests show elevated serum amylase and lipase levels. Abdominal CT scan shows diffuse pancreatic edema and necrosis. Which of the following is the most appropriate initial treatment?
+A. Intravenous fluids and pain control
+B. Intravenous antibiotics
+C. Intravenous insulin and glucose
+D. Intravenous octreotide
+E. Intravenous heparin
+Correct Answer: A
+
+4. A 30-year-old woman presents with a 1-week history of fatigue, malaise, and low-grade fever. On examination, she has cervical lymphadenopathy and splenomegaly. Laboratory tests show leukopenia, thrombocytopenia, and elevated liver enzymes. Serologic tests for Epstein-Barr virus (EBV) are positive. Which of the following is the most appropriate initial treatment?
+A. Intravenous acyclovir
+B. Intravenous ganciclovir
+C. Oral valacyclovir
+D. Supportive care
+E. Intravenous rituximab
+Correct Answer: D
+
+5. A 70-year-old man with a history of atrial fibrillation presents with sudden onset of left-sided weakness and slurred speech. On examination, he has left-sided hemiparesis and facial droop. Non-contrast head CT scan shows a hyperdense lesion in the right middle cerebral artery territory. Which of the following is the most appropriate initial treatment?
+A. Intravenous alteplase
+B. Intravenous heparin
+C. Oral aspirin
+D. Oral clopidogrel
+E. Supportive care
+Correct Answer: A
+
+Original Question: 
+

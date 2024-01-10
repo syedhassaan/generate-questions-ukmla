@@ -1,0 +1,77 @@
+1. A 65-year-old male presents with abdominal distension and discomfort. On examination, there is a palpable mass in the right upper quadrant of the abdomen. CT scan reveals a large hepatic tumor measuring 10 cm in diameter with multiple satellite nodules.
+   What is the most likely diagnosis?
+
+A. Hepatocellular carcinoma
+B. Cholangiocarcinoma
+C. Metastatic colon cancer
+D. Neuroendocrine tumor
+E. Hemangioma
+
+Correct Answer: A
+
+Explanation:
+The presentation of abdominal distension and discomfort along with a palpable mass in the right upper quadrant suggests hepatomegaly due to liver pathology such as hepatocellular carcinoma (HCC). The presence of multiple satellite nodules on imaging further supports this diagnosis.
+
+2.A 45-year-old female presents with progressive abdominal distension over several months associated with nausea, vomiting, and early satiety but no significant weight loss or change in bowel habits.
+On examination, there is marked ascites present.
+What investigation would be most useful for establishing a diagnosis?
+
+A.Abdominal ultrasound
+B.Computed tomography (CT) scan
+C.Magnetic resonance imaging (MRI)
+D.Laparoscopy
+E.Endoscopic retrograde cholangiopancreatography(ERCP)
+
+Correct Answer: B
+
+Explanation:
+In patients presenting with symptoms suggestive of ascites and abdominal distention without any obvious cause on physical examination, computed tomography (CT) scanning should be performed first-line to identify potential causes such as malignancy or cirrhosis.
+
+3.A 30-year-old male patient presents to his GP complaining of bloating after meals that has been ongoing for several weeks now.He reports occasional diarrhea alternating constipation but denies any blood per rectum or weight loss.On clinical exam he has mild tenderness over lower abdomen.No masses are felt.What test will you order next?
+
+A. Colonoscopy
+B. Stool culture and sensitivity
+C. Abdominal ultrasound
+D. CT scan of the abdomen and pelvis with contrast
+E. Upper gastrointestinal endoscopy
+
+Correct Answer: C
+
+Explanation:
+In patients presenting with abdominal distension, bloating, and mild tenderness over lower abdomen without any alarming symptoms such as blood per rectum or weight loss, an abdominal ultrasound is a useful first-line investigation to identify potential causes such as ovarian cysts or uterine fibroids in females or prostate enlargement in males before proceeding to more invasive investigations like colonoscopy or CT scan of the abdomen and pelvis with contrast which are reserved for cases where there is suspicion of malignancy or inflammatory bowel disease (IBD).
+
+4. A 65-year-old man presents with abdominal distension and discomfort. He has a history of alcohol abuse and has lost weight recently. On examination, there is a palpable mass in the right upper quadrant of the abdomen. Investigations reveal:
+
+- Haemoglobin: 10.5 g/dL (normal range: 13.5-17.5 g/dL)
+- White cell count: 12.5 x 10^9/L (normal range: 4-11 x 10^9/L)
+- Platelets: 350 x 10^9/L (normal range: 150-400 x 10^9/L)
+- Liver function tests: elevated bilirubin and alkaline phosphatase levels
+- CT scan of the abdomen: a large mass in the liver with multiple satellite lesions
+
+What is the most appropriate next step in management?
+
+A. Refer for liver transplant
+B. Start chemotherapy
+C. Perform a liver biopsy
+D. Perform a laparotomy
+E. Start antibiotics
+
+Correct Answer: C
+
+Explanation:
+The most likely diagnosis is hepatocellular carcinoma, given the patient's history of alcohol abuse and the presence of a liver mass with satellite lesions. A liver biopsy is necessary to confirm the diagnosis and determine the stage of the cancer. Treatment options depend on the stage of the cancer and the patient's overall health, but may include surgery, chemotherapy, or radiation therapy.
+
+5. A 45-year-old woman presents with abdominal distension and discomfort. She has a history of endometriosis and has been trying to conceive for the past year. On examination, there is a palpable mass in the lower abdomen. Pelvic ultrasound reveals a large cystic mass in the left ovary.
+
+What is the most likely diagnosis?
+
+A. Ovarian cancer
+B. Endometrioma
+C. Fibroid uterus
+D. Ectopic pregnancy
+E. Pelvic inflammatory disease
+
+Correct Answer: B
+
+Explanation:
+The most likely diagnosis is an endometrioma, which is a type of ovarian cyst that forms when endometrial tissue grows in the ovary. Endometriomas are common in women with endometriosis and can cause abdominal distension and discomfort. Treatment options depend on the size and symptoms of the cyst, but may include watchful waiting, hormonal therapy, or surgery. Ovarian cancer is less likely given the patient's age and the fact that the mass is cystic. Fibroid uterus, ectopic pregnancy, and pelvic inflammatory disease are also less likely given the patient's history and ultrasound findings.

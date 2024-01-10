@@ -1,0 +1,76 @@
+1. A 35-year-old woman presents with a 2-day history of abdominal distension, nausea and vomiting. She has no significant past medical history but is currently taking oral contraceptives. On examination, her abdomen is distended and tender to palpation in all quadrants with decreased bowel sounds. Laboratory investigations reveal elevated serum amylase levels.
+   Which of the following conditions should be considered as part of the differential diagnosis?
+
+A. Acute pancreatitis
+B. Ovarian torsion
+C. Mesenteric lymphadenitis
+D. Intestinal obstruction
+E. Gastrointestinal perforation
+
+Correct Answer: A
+
+Explanation: The clinical presentation suggests acute pancreatitis which can present with abdominal pain radiating to the back, nausea/vomiting, tenderness on palpation and elevated serum amylase levels.
+
+2.A 60-year-old man presents with a one-week history of progressive abdominal distension associated with constipation and difficulty passing urine despite having an urge to void frequently.
+On examination, his abdomen is grossly distended without any signs of peritonism or hernias; there are also bilateral pitting oedema up to mid-thighs.
+What imaging modality would be most appropriate for further evaluation?
+
+A.Computed tomography (CT) scan
+B.Magnetic resonance imaging (MRI)
+C.Ultrasound scan
+D.X-ray plain film
+E.Positron emission tomography (PET) scan
+
+Correct Answer: C
+
+Explanation: The patient's symptoms suggest urinary retention secondary to bladder outlet obstruction from possible pelvic mass causing compression on urethra leading to overflow incontinence while lower limb oedema may indicate venous congestion due to inferior vena cava obstruction by retroperitoneal tumour or thrombus formation hence ultrasound will provide more information about these structures.
+
+3.A 50-year-old female patient presented at Accident & Emergency department complaining of abdominal distension, nausea and vomiting. She has a history of hypertension and is currently on medication for it.
+On examination, her abdomen is distended with diffuse tenderness but no guarding or rebound tenderness. Bowel sounds are present but reduced in frequency.
+Which of the following investigations would be most appropriate to confirm the diagnosis?
+
+A.Abdominal X-ray
+B.Ultrasound scan
+C.Computed tomography (CT) scan
+D.Magnetic resonance imaging (MRI)
+E.Laparoscopy
+
+Correct Answer: C
+
+Explanation: The clinical presentation suggests possible bowel obstruction which can be confirmed by CT scan that will show dilated loops of small bowel proximal to site of obstruction with air-fluid levels while also ruling out other causes like ascites or tumours causing mass effect leading to intestinal compression.
+
+4. A 45-year-old woman presents to the emergency department with a one-week history of abdominal distension, nausea and vomiting. She has not had any bowel movements for three days and is experiencing severe pain in her abdomen. On examination, she has a distended abdomen with diffuse tenderness on palpation.
+Investigations:
+- Abdominal X-ray: Dilated loops of small bowel
+- CT scan: Small bowel obstruction due to adhesions
+- Blood tests: Elevated white cell count (WCC) and C-reactive protein (CRP)
+What is the next step in management?
+
+A. Administer intravenous fluids and electrolytes
+B. Insert nasogastric tube for decompression
+C. Perform laparoscopic surgery immediately 
+D. Prescribe antibiotics 
+E. Refer patient to gastroenterologist 
+
+Correct Answer: B
+
+Explanation: The most appropriate next step in management would be to insert a nasogastric tube for decompression as this will help relieve symptoms by removing excess gas or fluid from the stomach or intestines.
+
+5. A 60-year-old man presents with progressive abdominal distension over several months along with constipation, fatigue, loss of appetite and weight loss despite an increased intake of food.
+On examination, he has ascites present but no hepatosplenomegaly or lymphadenopathy noted.
+Investigations:
+- Haemoglobin 110 g/l (normal range = 130 –180 g/l)
+- White cell count (WCC) 6 ×109 /l (normal range =4–11 ×109 /l)
+- Platelets 200×109 /l(normal range=150–400×109 /l)
+- Serum albumin level decreased at <30g/L(normal range=35–50g/L).
+Which one of the following diagnoses is most likely?
+
+A.Hepatic cirrhosis 
+B.Pancreatic cancer 
+C.Ovarian cancer
+D.Colorectal cancer 
+E.Gastric carcinoma
+
+Correct Answer: A
+
+Explanation: The most likely diagnosis is hepatic cirrhosis as it can cause abdominal distension due to the accumulation of fluid in the abdomen (ascites). Other symptoms such as fatigue, loss of appetite and weight loss are also common in patients with liver disease. The decreased serum albumin level is another indicator of liver dysfunction.

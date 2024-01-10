@@ -1,0 +1,399 @@
+1. A 45-year-old woman presents to the emergency department with a 2-day history of severe abdominal distension, pain, and vomiting. She has a past medical history significant for Crohn's disease and multiple abdominal surgeries. On examination, her abdomen is massively distended with diffuse tenderness on palpation. Bowel sounds are absent. CT scan shows massive dilatation of the small bowel with no evidence of mechanical obstruction or perforation. Laboratory studies show elevated white blood cell count and lactate levels. Which of the following is the most likely diagnosis? 
+
+A. Small bowel volvulus
+B. Ogilvie syndrome 
+C. Mesenteric ischemia 
+D. Acute intestinal pseudo-obstruction 
+E. Toxic megacolon
+
+Correct Answer: D
+
+Explanation: The clinical presentation along with radiographic findings suggest acute intestinal pseudo-obstruction (Ogilvie Syndrome). This condition can occur in patients with underlying medical conditions such as Crohn's disease or after surgery.
+
+2. A 60-year-old man presents to his primary care physician complaining of bloating and abdominal discomfort for several months that have been progressively worsening over time despite dietary changes and antacids use without relief. He denies any nausea, vomiting, diarrhea, constipation, or weight loss but reports feeling full quickly after eating even small meals. His past medical history includes hypertension, hyperlipidemia, and type II diabetes mellitus controlled by oral medications only; he has no prior surgical history nor family history of gastrointestinal malignancies or inflammatory bowel disease (IBD). Physical examination reveals mild epigastric tenderness upon deep palpation without guarding or rebound tenderness; there is no hepatosplenomegaly or lymphadenopathy noted; rectal exam is unremarkable except for stool guaiac test positive for occult blood; laboratory workup including complete blood count (CBC), comprehensive metabolic panel (CMP), and carcinoembryonic antigen (CEA) levels are within normal limits. Which of the following is the most appropriate next step? 
+
+A. Upper endoscopy 
+B. Colonoscopy
+C. Abdominal CT scan with contrast 
+D. Fecal occult blood test (FOBT)
+E. Small bowel capsule endoscopy
+
+Correct Answer: A
+
+Explanation: The patient's symptoms, physical examination findings, and positive stool guaiac test suggest a possible upper gastrointestinal (GI) source for his abdominal distension such as peptic ulcer disease or gastric cancer; therefore, an upper endoscopy would be the most appropriate initial diagnostic test.
+
+3. A 35-year-old woman presents to her primary care physician complaining of bloating, constipation alternating with diarrhea, and lower abdominal pain that have been present for several months but worsening over the past few weeks despite dietary changes and laxatives use without relief. She denies any nausea, vomiting, rectal bleeding, or weight loss but reports feeling fatigued and depressed lately. Her past medical history includes irritable bowel syndrome (IBS) diagnosed by a gastroenterologist based on Rome IV criteria after negative workup including colonoscopy two years ago; she has no prior surgical history nor family history of gastrointestinal malignancies or inflammatory bowel disease (IBD). Physical examination reveals mild diffuse tenderness upon deep palpation in all quadrants without guarding or rebound tenderness; there is no hepatosplenomegaly or lymphadenopathy noted; rectal exam is unremarkable except for minimal fecal residue; laboratory workup including CBC, CMP, thyroid function tests (TFTs), erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), and celiac serology are within normal limits except for low vitamin D level at 15 ng/mL (normal range 30-100 ng/mL). Which of the following is the most appropriate next step? 
+
+A. Repeat colonoscopy 
+B. Abdominal CT scan with contrast 
+C. Fecal calprotectin test
+D. Hydrogen breath test for lactose intolerance 
+E. Trial of antidepressant medication
+
+Correct Answer: C
+
+Explanation: The patient's symptoms and history are consistent with IBS; however, given her worsening symptoms despite conservative measures and negative prior workup including colonoscopy, a fecal calprotectin test would be the most appropriate initial diagnostic test to rule out inflammatory bowel disease (IBD) which can mimic IBS in presentation but require different management strategies.
+
+4. A 65-year-old male presents to the emergency department with severe abdominal pain and distension. He reports a history of chronic constipation, but denies any recent changes in bowel habits or blood in his stool. On examination, there is a large mass palpable in the left lower quadrant that is tender to touch. CT scan reveals a 10 cm mass arising from the sigmoid colon with invasion into surrounding structures.
+Which one of the following is the most likely diagnosis? 
+
+A. Gastrointestinal stromal tumor (GIST)
+B. Colonic adenocarcinoma
+C. Carcinoid tumor
+D. Lymphoma
+E. Leiomyosarcoma
+
+Correct Answer: B
+
+Explanation: The presentation is consistent with colonic adenocarcinoma due to its location in the sigmoid colon, associated symptoms of abdominal pain and distension, and invasion into surrounding structures on imaging.
+
+5. A 30-year-old female presents with a rapidly growing abdominal mass that has been present for several months. She reports no other symptoms and has no significant past medical history. On examination, there is a large, firm mass palpable in the right upper quadrant that appears fixed to underlying structures and does not transilluminate.
+Which one of the following diagnoses should be considered? 
+
+A. Hepatocellular carcinoma 
+B. Adrenal cortical carcinoma 
+C. Retroperitoneal fibrosis 
+D. Ovarian teratoma 
+E. Desmoid tumor 
+
+Correct Answer: E
+
+Explanation: The presentation is consistent with desmoid tumor due to its rapid growth, firm consistency, lack of transillumination, and tendency to invade adjacent structures.
+
+6.A 55-year-old woman presents with an incidental finding of an abdominal mass on routine imaging for another condition.She reports no other symptoms and has no significant past medical history.On examination,a large non-tender mass is palpated in the left upper quadrant that appears to be arising from the spleen. CT scan confirms a 15 cm splenic mass with no evidence of metastasis.
+Which one of the following is the most likely diagnosis? 
+
+A. Splenic lymphoma 
+B. Hemangioma
+C. Splenic abscess
+D. Splenic cyst
+E. Angiosarcoma
+
+Correct Answer: A
+
+Explanation: The presentation is consistent with splenic lymphoma due to its large size, non-tender nature, and lack of evidence for other diagnoses such as hemangioma or abscess on imaging.
+
+7. A 45-year-old woman presents to her general practitioner with a history of abnormal vaginal bleeding and discomfort during sexual intercourse. She had a cervical smear test as part of the routine screening programme, which showed high-grade dyskaryosis. The patient is currently menopausal and has not received the HPV vaccination.
+
+What would be the most appropriate next step in her management?
+
+A. Referral to colposcopy for consideration of LLETZ
+B. Repeat cervical smear within 3 months
+C. Offer the HPV vaccination
+D. Routine referral to gynaecology
+E. Urgent referral to gynaecology
+
+Correct Answer: A
+
+Explanation: Given the patient's symptoms and high-grade dyskaryosis on cervical smear, immediate referral to colposcopy for consideration of LLETZ is necessary.
+
+8. A 32-year-old woman presents with persistent vaginal discharge and pain during sexual intercourse. Her previous cervical smear was normal, but she has never received an HPV vaccination.
+
+Her current results show:
+
+High-risk human papillomavirus (hrHPV): POSITIVE.
+Cytology: ABNORMAL (atypical squamous cells of undetermined significance).
+
+What would be the most appropriate next step in her management? 
+
+A. Colposcopy
+B. Return to normal recall
+C. Repeat cytology in 3 months
+D. Repeat cytology in 6 months
+E. Repeat hrHPV in 12 months
+
+Correct Answer: A
+
+Explanation: Atypical squamous cells of undetermined significance are considered borderline changes that require further investigation through colposcopy.
+
+9.A 40-year-old female presents with post-coital bleeding and lower abdominal pain for several weeks duration.She had a cervical smear test as part of the UK cervical cancer screening programme which shows low grade dyskaryosis.The patient is currently asymptomatic otherwise.What would be your next course of action? 
+
+A. Colposcopy
+B. Return to normal recall
+C. Repeat cytology in 3 months
+D. Repeat cytology in 6 months
+E. Repeat hrHPV in 12 months
+
+Correct Answer: A
+
+Explanation: Post-coital bleeding and lower abdominal pain are concerning symptoms that require immediate investigation through colposcopy, especially with the presence of low-grade dyskaryosis on cervical smear test.
+
+10. A 5-year-old boy is brought to the paediatrician by his parents, who are concerned about their child's development. The parents report that he has been missing most of his milestones and that his development is lagging behind what is expected for his age. They also mention that their child has a history of recurrent infections and allergies since birth. On examination, the boy appears uninterested in social interaction and avoids eye contact with the doctor. He speaks only a few words and cannot construct sentences consisting of more than two words. His motor skills are delayed, and he has difficulty performing simple tasks such as buttoning up his shirt or tying shoelaces. The patient's head circumference is above average, and he has dysmorphic features such as a long face, prominent forehead, large ears, and thin upper lip.
+
+What is the most likely diagnosis? 
+
+A. Down syndrome
+B. Fragile X syndrome
+C. Rett syndrome
+D. Angelman syndrome
+E. Prader-Willi syndrome
+
+Correct Answer: B
+
+Explanation: Fragile X syndrome is an inherited genetic disorder caused by a mutation in the FMR1 gene on the X chromosome, leading to intellectual disability, developmental delay, behavioural problems, and physical characteristics such as a long face with prominent forehead and large ears.
+
+11. A 2-year-old girl presents to her GP with concerns from her mother regarding her daughter’s speech development; she can say only one word at this stage (‘mama’). Her mother reports no other issues but mentions that she was born prematurely at 32 weeks gestation following pre-eclampsia during pregnancy requiring an emergency caesarean section delivery due to fetal distress.
+On examination, there are no significant findings apart from mild hypertonia in both lower limbs.
+Which of these conditions would be highest on your differential? 
+
+A. Cerebral palsy 
+B. Autism spectrum disorder 
+C. Down syndrome 
+D. Fragile X syndrome
+E. Rett syndrome
+
+Correct Answer: A
+
+Explanation: The patient's history of premature birth and hypertonia in both lower limbs are suggestive of cerebral palsy, a group of neurological disorders that affect movement and posture.
+
+12. A 6-year-old boy is brought to the paediatrician by his parents due to concerns about his developmental progress. They report that their child has been missing most of his milestones and that he has difficulty with social interaction. He speaks only a few words and cannot construct sentences consisting of more than two words. On examination, the boy appears uninterested in social interaction and avoids eye contact with the doctor. His motor skills are delayed, and he has difficulty performing simple tasks such as buttoning up his shirt or tying shoelaces. The patient's head circumference is above average, and he has dysmorphic features such as a long face, prominent forehead, large ears, and thin upper lip.
+What is the most likely diagnosis? 
+
+A. Angelman syndrome
+B. Prader-Willi syndrome
+C. Fragile X syndrome
+D. Rett syndrome
+E. Down syndrome
+
+Correct Answer: D
+
+Explanation: Rett Syndrome is a rare genetic disorder affecting brain development leading to intellectual disability, developmental delay, behavioural problems including autistic-like behaviours along with physical characteristics such as a long face with prominent forehead and large ears which can be seen in this case scenario
+
+13. A 25-year-old female patient presents to the GP with concerns about her eating habits. She reports that she has been restricting her food intake for several months and is now experiencing significant weight loss. She also admits to engaging in excessive exercise routines, even when feeling unwell or injured. The patient denies any purging behaviours but reports feeling guilty after eating and often skipping meals altogether. On examination, the patient's vital signs are normal, but she has a BMI of 16.5 and appears emaciated.
+
+Which of the following is true regarding anorexia nervosa? 
+
+A. Anorexia nervosa is characterized by recurrent episodes of binge-eating followed by compensatory behaviors such as vomiting or laxative use.
+B. Individuals with anorexia nervosa typically have a distorted body image and fear gaining weight.
+C. Anorexia nervosa is more common in males than females.
+D. Patients with anorexia nervosa usually maintain a healthy weight despite their restrictive eating patterns.
+E. Treatment for anorexia nervosa typically involves cognitive-behavioral therapy alone.
+
+Correct Answer: B
+
+Explanation: Anorexia nervosa is characterized by severe restriction of food intake leading to significantly low body weight, intense fear of gaining weight or becoming fat, and disturbance in self-perceived weight or shape (body dysmorphia). It is more common in females than males and can lead to serious medical complications if left untreated.
+
+14. A 20-year-old male college student presents to his GP complaining of fatigue, dizziness, and muscle weakness over the past few weeks. He reports that he has been exercising excessively for several hours each day while consuming very little food due to concerns about his appearance and athletic performance. On examination, the patient's vital signs are stable but he appears underweight with a BMI of 17.
+
+What condition should be suspected based on this presentation? 
+
+A. Anorexia nervosa
+B. Bulimia nervosa
+C. Binge eating disorder
+D. Orthorexia nervosa
+E. Muscle dysmorphia
+
+Correct Answer: E
+
+Explanation: The patient's presentation is consistent with muscle dysmorphia, a subtype of body dysmorphic disorder characterized by an excessive preoccupation with muscularity and body size, leading to compulsive exercise and dietary restriction.
+
+15. A 30-year-old female presents to the GP with concerns about her binge-eating behaviours. She reports that she experiences recurrent episodes of consuming large amounts of food in a short period, often feeling out of control during these episodes. She also admits to experiencing significant guilt and shame after binging but denies any purging behaviours or restrictive eating patterns. On examination, the patient's vital signs are normal, but she has a BMI of 32.
+
+What condition should be suspected based on this presentation? 
+
+A. Anorexia nervosa
+B. Bulimia nervosa
+C. Binge eating disorder
+D. Pica disorder
+E. Rumination disorder
+
+Correct Answer: C
+
+Explanation: The patient's presentation is consistent with binge eating disorder, which is characterized by recurrent episodes of binge-eating without compensatory behaviors such as vomiting or laxative use seen in bulimia nervosa. It can lead to obesity and other medical complications if left untreated.
+
+16. A 62-year-old man presents to the physician with a complaint of involuntary movements in his right arm and leg for the past year. The movements are more pronounced when he is under stress or anxious, and they interfere with his daily activities. He has no significant medical history except for hypertension, which is well-controlled on medication. Neurological examination reveals choreiform movements in the right upper and lower extremities, with mild bradykinesia but no rigidity or tremors. MRI of the brain shows atrophy of the caudate nucleus bilaterally. Which of the following is the most likely diagnosis? 
+
+A. Huntington's disease
+B. Parkinson's disease
+C. Wilson's disease
+D. Sydenham chorea
+E. Tardive dyskinesia
+
+Correct Answer: A
+
+Explanation: The clinical presentation of choreiform movements along with atrophy of the caudate nucleus on imaging strongly suggests Huntington's disease.
+
+17. A 25-year-old woman presents to her primary care physician complaining of facial spasms that have been occurring intermittently for several months. She describes these episodes as brief contractions involving one side of her face, causing her eye to close involuntarily and pulling up one corner of her mouth into a grimace-like expression that lasts only seconds before subsiding spontaneously without any residual weakness or numbness afterward. There is no associated pain or sensory disturbance during these episodes, nor do they affect her speech or swallowing function. Physical examination reveals normal cranial nerve function except for intermittent twitching noted over the left orbicularis oculi muscle during voluntary closure of both eyes (positive "forced wink" sign). Which of the following is the most likely diagnosis? 
+
+A. Hemifacial spasm
+B. Bell's palsy 
+C. Myasthenia gravis 
+D. Trigeminal neuralgia 
+E.Tourette syndrome
+
+Correct Answer: A
+
+Explanation: The clinical features of brief, unilateral facial spasms and positive "forced wink" sign are consistent with the diagnosis of hemifacial spasm.
+
+18. A 15-year-old boy is brought to the emergency department by his parents after they noticed that he has been behaving strangely for the past few days. They report that he has been experiencing involuntary movements involving his face, arms, and legs, as well as episodes of agitation and confusion. He also complains of muscle stiffness and difficulty walking. On examination, there is evidence of choreiform movements affecting all four limbs along with dystonic posturing in the right arm. There is no sensory or autonomic dysfunction noted on examination. Laboratory investigations reveal elevated creatine kinase levels and a negative urine toxicology screen. Which of the following is the most likely diagnosis? 
+
+A. Sydenham chorea 
+B. Neuroleptic malignant syndrome 
+C. Huntington's disease 
+D. Tardive dyskinesia
+E.Drug-induced movement disorder
+
+Correct Answer: B
+
+Explanation: The presence of involuntary movements along with muscle rigidity, hyperthermia, altered mental status, and elevated creatine kinase levels suggests neuroleptic malignant syndrome as a possible cause in this case.
+
+19. A 45-year-old woman presents to the emergency department with a complaint of severe abdominal pain and vomiting for the past 24 hours. She has a history of recurrent urinary tract infections (UTIs) and is currently on antibiotics for a UTI diagnosed two weeks ago. On examination, she appears dehydrated and her abdomen is tender to palpation in all quadrants. Urinalysis reveals leukocyte esterase positivity, nitrite positivity, and numerous white blood cells (WBCs) per high power field. Microscopic examination shows WBC casts but no red blood cells or bacteria are seen. What is the most likely diagnosis? 
+
+A. Acute pyelonephritis
+B. Acute interstitial nephritis
+C. Renal artery thrombosis
+D. Nephrotic syndrome 
+E. Acute glomerulonephritis
+
+Correct Answer: B
+
+Explanation: The patient's presentation suggests acute interstitial nephritis (AIN), which can be caused by medications such as antibiotics, nonsteroidal anti-inflammatory drugs (NSAIDs), proton pump inhibitors (PPIs), and diuretics, among others. The presence of leukocyte esterase positivity, nitrite positivity, numerous WBCs per high power field, and WBC casts on urinalysis suggest an inflammatory process affecting the renal tubules rather than an infection or obstruction of the urinary tract itself.
+
+20. A 60-year-old man with a history of hypertension presents to his primary care physician for routine follow-up. He reports no symptoms but his urine dipstick test reveals proteinuria with 2+ protein detected on two consecutive visits over the past month despite being normotensive at both visits.
+What would be your next step? 
+
+A. Repeat urine dipstick testing in one week
+B. Refer patient to a nephrologist for further evaluation
+C. Order serum creatinine and estimated glomerular filtration rate (eGFR)
+D. Order a 24-hour urine collection for protein quantification
+E. Start treatment with an angiotensin-converting enzyme inhibitor (ACEi)
+
+Correct Answer: C
+
+Explanation: Persistent proteinuria is indicative of renal disease, and the next step in evaluation should be to assess kidney function by ordering serum creatinine and eGFR. Proteinuria can be caused by a variety of conditions such as hypertension, diabetes mellitus, autoimmune diseases, infections or malignancies. The presence of proteinuria may indicate underlying kidney damage that requires further investigation.
+
+21. A 25-year-old woman presents to her primary care physician with complaints of fatigue, malaise, and dark-colored urine for the past week. She reports no history of recent illness or medication use but admits to consuming large amounts of alcohol on weekends.
+Urinalysis reveals hematuria without red blood cell casts or dysmorphic RBCs; however, there are numerous granular casts seen under microscopy.
+What is the most likely diagnosis? 
+
+A. Acute interstitial nephritis
+B. Acute tubular necrosis
+C. Glomerulonephritis 
+D. Nephrotic syndrome 
+E. Renal artery thrombosis
+
+Correct Answer: B
+
+Explanation: The patient's presentation suggests acute tubular necrosis (ATN), which can be caused by ischemia or toxic injury to the renal tubules from drugs such as nonsteroidal anti-inflammatory drugs (NSAIDs), antibiotics like gentamicin or vancomycin, contrast agents used during imaging studies etc., among others. Hematuria without red blood cell casts or dysmorphic RBCs is suggestive of ATN rather than glomerulonephritis while granular casts are characteristic findings in ATN due to sloughing off of damaged cells within the renal tubules. The patient's history of alcohol consumption may also contribute to the development of ATN.
+
+22. A 45-year-old man presents to the emergency department with severe abdominal pain that started suddenly a few hours ago. He describes the pain as being located in the epigastric region and radiating to his back. The patient has a history of heavy alcohol consumption and smoking. On examination, he appears uncomfortable and is tachycardic. Abdominal palpation reveals tenderness in the epigastric region with guarding. Blood tests reveal elevated amylase and lipase levels.
+Which of the following is the most likely diagnosis? 
+
+A. Acute pancreatitis
+B. Perforated peptic ulcer
+C. Cholecystitis 
+D. Appendicitis 
+E. Mesenteric ischemia
+
+Correct Answer: A
+
+Explanation: The clinical presentation of sudden onset severe epigastric pain radiating to the back, along with elevated amylase and lipase levels are highly suggestive of acute pancreatitis.
+
+23. A 30-year-old female presents to the emergency department complaining of lower abdominal pain for the past day which has been increasing in intensity over time. She also reports nausea, vomiting, fever, and diarrhoea since yesterday evening but denies any urinary symptoms or vaginal discharge/bleeding.
+On examination, she appears unwell with a temperature of 38°C and mild tachycardia; her abdomen is distended with diffuse tenderness on palpation without rebound or guarding.
+What is the MOST LIKELY diagnosis? 
+
+A. Pelvic inflammatory disease (PID)
+B. Ovarian torsion
+C. Ruptured ectopic pregnancy
+D. Diverticulitis
+E. Ischemic colitis
+
+Correct Answer: D
+
+Explanation: The combination of lower abdominal pain, fever, vomiting, diarrhoea, and distension suggests diverticulitis as it commonly presents with these symptoms.
+
+24. An 80-year-old man presents to the emergency department with a sudden onset of severe abdominal pain. He has a history of hypertension, hyperlipidemia, and previous myocardial infarction. On examination, he appears unwell and is hypotensive; his abdomen is distended with diffuse tenderness on palpation without rebound or guarding.
+Which of the following is the most likely diagnosis? 
+
+A. Acute mesenteric ischemia
+B. Ruptured abdominal aortic aneurysm (AAA)
+C. Perforated diverticulitis
+D. Acute cholecystitis 
+E. Small bowel obstruction
+
+Correct Answer: B
+
+Explanation: The clinical presentation of sudden onset severe abdominal pain in an elderly patient with a history of cardiovascular disease and hypotension raises suspicion for ruptured AAA which requires urgent surgical intervention.
+
+25. A 75-year-old male patient with a history of chronic obstructive pulmonary disease, hypertension and osteoarthritis presents to the emergency department with severe acute pain in his left hip after a fall at home. He is currently taking paracetamol 1 g PO QDS and tramadol 50 mg PO TDS for his arthritis pain. On examination, he has tenderness over the left hip joint and limited range of movement.
+Which of the following analgesic options would be most appropriate for this patient? 
+
+A. Fentanyl patch
+B. Morphine sulphate IV bolus
+C. Oxycodone IR tablets PO PRN 
+D. Ketamine infusion
+E. Lidocaine patches
+
+Correct Answer: C
+
+Explanation: The patient's medical history suggests that they are at risk of respiratory depression from opioids such as morphine or fentanyl, so these should be avoided if possible. Ketamine may not be suitable due to its potential side effects on blood pressure and heart rate in patients with COPD and hypertension respectively. Lidocaine patches may provide some relief but are unlikely to be sufficient for severe acute pain such as this case. Therefore, oxycodone immediate-release (IR) tablets taken orally as needed (PRN) would be an appropriate option.
+
+26. A 32-year-old female patient presents to her GP complaining of chronic migraine headaches that have been unresponsive to over-the-counter analgesics such as ibuprofen and aspirin. She has tried several triptan medications without success due to side effects such as nausea and dizziness.
+Which of the following non-pharmacological interventions could potentially help alleviate her symptoms? 
+
+A. Acupuncture
+B. Chiropractic manipulation 
+C. Hypnotherapy 
+D. Cognitive-behavioral therapy (CBT)
+E. All of the above
+
+Correct Answer: E
+
+Explanation: Non-pharmacological interventions such as acupuncture, chiropractic manipulation, hypnotherapy and CBT have all been shown to be effective in reducing the frequency and severity of migraine headaches. These therapies may work by reducing stress levels, improving sleep quality or altering pain perception pathways.
+
+27. A 50-year-old male patient with a history of chronic lower back pain presents to his GP requesting stronger analgesics as his current regimen of paracetamol and codeine is no longer providing adequate relief. He has tried physiotherapy and exercise programs without success.
+Which of the following opioid medications would be most appropriate for this patient? 
+
+A. Methadone 
+B. Fentanyl transdermal patch
+C. Oxycodone IR tablets PO PRN 
+D. Hydromorphone IV bolus
+E. Buprenorphine sublingual tablets
+
+Correct Answer: E
+
+Explanation: Buprenorphine is a partial agonist at the mu-opioid receptor that has been shown to be effective in treating chronic non-cancer pain while having a lower risk of respiratory depression compared to full agonists such as methadone or fentanyl. It also has a ceiling effect on its analgesic properties which reduces the risk of overdose if taken in excess. Therefore, buprenorphine sublingual tablets would be an appropriate option for this patient's chronic pain management plan.
+
+28. A 45-year-old man presents to the emergency department with sudden onset of painless loss of vision in his right eye. He reports that he had been experiencing headaches for the past few weeks and has a history of hypertension, hyperlipidemia, and smoking. On examination, visual acuity is reduced to counting fingers at one meter in the affected eye. Fundoscopy reveals pale optic disc edema with cotton wool spots and flame-shaped hemorrhages.
+
+What is the most likely diagnosis?
+
+A. Central retinal artery occlusion
+B. Central retinal vein occlusion
+C. Ischemic optic neuropathy
+D. Optic neuritis
+E. Retinal detachment
+
+Correct Answer: C
+
+Explanation: The patient's presentation is consistent with ischemic optic neuropathy, which can be caused by various factors including hypertension, diabetes mellitus, and smoking. The presence of headache may suggest giant cell arteritis as an underlying cause; however, fundoscopic findings are not typical for this condition.
+
+29. A 60-year-old woman presents with acute onset of blurred vision in her left eye associated with flashing lights and floaters over the past 24 hours. She has a history of hypertension and type 2 diabetes mellitus but denies any recent trauma or infection. On examination, visual acuity is reduced to 6/36 in the affected eye compared to 6/9 in the other eye.
+
+Which investigation would be most useful in establishing a diagnosis? 
+
+A. CT scan of brain 
+B. Fluorescein angiography 
+C. Magnetic resonance imaging (MRI) 
+D. Optical coherence tomography (OCT)
+E. Visual field testing 
+
+Correct Answer: B
+
+Explanation: The patient's symptoms are suggestive of vitreous hemorrhage or retinal detachment which can be confirmed by fluorescein angiography showing leakage from abnormal vessels or areas of non-perfusion respectively. CT scan of the brain is not indicated in this case, and MRI may be useful for detecting optic nerve or chiasmal lesions but would not provide information on the retina or vitreous. OCT can be used to assess retinal thickness but does not provide a comprehensive view of the entire retina.
+
+30. A 35-year-old man presents with sudden onset of painless vision loss in his left eye that occurred while he was playing basketball earlier that day. He reports no significant past medical history and denies any recent trauma or infection. On examination, visual acuity is reduced to counting fingers at one meter in the affected eye compared to 6/9 in the other eye. There is no relative afferent pupillary defect, and fundoscopy reveals normal optic disc appearance with macular edema.
+
+What is the most likely diagnosis? 
+
+A. Central serous chorioretinopathy 
+B. Macular hole 
+C. Optic neuritis 
+D. Retinal artery occlusion
+E. Traumatic hyphema
+
+Correct Answer: D
+
+Explanation: The patient's presentation is consistent with retinal artery occlusion which can occur due to embolization from carotid artery disease or cardiac sources such as atrial fibrillation or endocarditis. The absence of an afferent pupillary defect suggests involvement of only a branch retinal artery rather than central retinal artery occlusion which usually causes severe ischemia affecting both eyes and results in a relative afferent pupillary defect (Marcus Gunn pupil).
+
