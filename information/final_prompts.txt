@@ -1,0 +1,299 @@
+# Prompt 1
+
+These are some sample questions extracted from the UK Medical Licensing Examination.
+
+1. A 4-month-old child is brought to the Emergency Department with breathlessness. She has epicanthic folds and single palmar creases. Cytogenetic testing reveals an autosomal trisomy.
+   What is the most common cardiac abnormality found in children with this condition?
+
+A. Atrial septal defect
+B. Mitral stenosis
+C. Patent ductus arteriosus
+D. Ventricular septal defect
+E. Atrioventricular septal defect
+
+Correct Answer: E
+
+Explanation:
+Given the physical presentation of epicanthic folds, single creases, and an autosomal trisomy, the patient in this scenario is likely to have Down syndrome. Children with Down syndrome very commonly have some kind of congenital heart disease. It is thought that these occur in 42% of the population of Down syndrome children, with 23% of patients having more than one cardiac abnormality. The most common cardiac abnormality found in 37% of cases is a complete atrioventricular septal defect. Ventricular septal defects are the second most common type of cardiac abnormality found in children with Down syndrome, affecting 30% of patients.
+
+2. A 27-year-old lady who is 28 weeks pregnant with her second child presents in a very anxious state. She has just been at a friend’s party and has discovered that one of the children there had just developed a rash suggesting chickenpox. She is terrified the disease is going to harm her unborn child. She cannot recall if she had chickenpox as a child. Her medical record does not shed any light on the situation, and it is unclear if she has had vaccination against varicella. She does not have a rash herself and feels well. Her pregnancy has been uncomplicated to date.
+   What is the most appropriate next course of action?
+
+A. Arrange immediate administration of varicella-zoster immunoglobulin
+B. Urgently test for varicella antibodies (varicella-zoster IgG)
+C. Reassure that, even if she contracts chickenpox, it will not cause harm to the unborn baby at this stage of gestation
+D. Arrange immediate immunisation against varicella-zoster
+E. Advise that no immediate action is needed, but she should return immediately if she develops a rash, so that varicella-zoster immunoglobulin can be administered
+
+Correct Answer: B
+
+Explanation:
+Given the patient has had some exposure to chickenpox and is unsure of whether she is immune following exposure as a child, the first step is to test for immunity by checking for varicella-zoster IgG antibodies in the blood.
+If antibodies are detected, the woman is considered immune and no further action is required, unless a rash develops.
+
+3. An ST1 doctor working in Scotland issues an emergency detention certificate for an inpatient being treated for acute Crohn’s disease who was demanding to go home because voices were telling him that everyone in the hospital may kill him, and was making threats of harm towards his girlfriend. He is not delirious. You have contacted a psychiatrist, who initially told you that she would be there within the 6 hours, but has since contacted you to say that due to unforeseen circumstances she cannot attend until the next day. The patient consented to taking a sedative, which was administered 3 hours ago. He is making no attempts to leave, and there has been a marked reduction in his responses to apparent auditory hallucinations and threats towards his partner.
+
+Can you revoke the Emergency Detention Order?
+
+A. Yes, since you made the order, you can revoke it
+B. Yes, since it only applies whilst there is an urgent need for detention
+C. No, only a psychiatrist can revoke it after examining the patient
+D. No, it must run for the entire 72 hours
+E. No, it must go to a Mental Health Tribunal
+
+Correct Answer: C
+
+Explanation: The Mental Health (Care and Treatment) (Scotland) Act 2003 (amended 2015) states that a psychiatrist must examine the patient as soon as possible. If, following the examination, the psychiatrist believes that it is not necessary for the patient to be detained in hospital under the Act, he/she will then revoke the Emergency Detention Certificate.
+
+I want you to generate 3 more questions (numbered from 1 to 3) in the format of the above sample questions. The questions should be on the topic of 'abdominal distension' and should be of the highest difficulty level, make them as challenging as you possibly can. The question should have 5 possible answers (A to E). Include the correct answer and explanation as well.
+
+# Configurations
+
+Frequency penalty: 1.25
+Presence penalty: 1
+
+# Answer 1
+
+1. A 65-year-old male presents with abdominal distension and discomfort. On examination, there is a palpable mass in the right upper quadrant of the abdomen. CT scan reveals a large hepatic tumor measuring 10 cm in diameter with multiple satellite nodules.
+   What is the most likely diagnosis?
+
+A. Hepatocellular carcinoma
+B. Cholangiocarcinoma
+C. Metastatic colon cancer
+D. Neuroendocrine tumor
+E. Hemangioma
+
+Correct Answer: A
+
+Explanation:
+The presentation of abdominal distension and discomfort along with a palpable mass in the right upper quadrant suggests hepatomegaly due to liver pathology such as hepatocellular carcinoma (HCC). The presence of multiple satellite nodules on imaging further supports this diagnosis.
+
+2.A 45-year-old female presents with progressive abdominal distension over several months associated with nausea, vomiting, and early satiety but no significant weight loss or change in bowel habits.
+On examination, there is marked ascites present.
+What investigation would be most useful for establishing a diagnosis?
+
+A.Abdominal ultrasound
+B.Computed tomography (CT) scan
+C.Magnetic resonance imaging (MRI)
+D.Laparoscopy
+E.Endoscopic retrograde cholangiopancreatography(ERCP)
+
+Correct Answer: B
+
+Explanation:
+In patients presenting with symptoms suggestive of ascites and abdominal distention without any obvious cause on physical examination, computed tomography (CT) scanning should be performed first-line to identify potential causes such as malignancy or cirrhosis.
+
+3.A 30-year-old male patient presents to his GP complaining of bloating after meals that has been ongoing for several weeks now.He reports occasional diarrhea alternating constipation but denies any blood per rectum or weight loss.On clinical exam he has mild tenderness over lower abdomen.No masses are felt.What test will you order next?
+
+A. Colonoscopy
+B. Stool culture and sensitivity
+C. Abdominal ultrasound
+D. CT scan of the abdomen and pelvis with contrast
+E. Upper gastrointestinal endoscopy
+
+Correct Answer: C
+
+Explanation:
+In patients presenting with abdominal distension, bloating, and mild tenderness over lower abdomen without any alarming symptoms such as blood per rectum or weight loss, an abdominal ultrasound is a useful first-line investigation to identify potential causes such as ovarian cysts or uterine fibroids in females or prostate enlargement in males before proceeding to more invasive investigations like colonoscopy or CT scan of the abdomen and pelvis with contrast which are reserved for cases where there is suspicion of malignancy or inflammatory bowel disease (IBD).
+
+# Prompt 2
+
+These are some sample questions extracted from the UK Medical Licensing Examination.
+
+1. A 29-year-old man presents with an acutely red right eye. He also has dull aching pain affecting the eye, and he is photosensitive, with light severely worsening the pain in the eye. There is no mucopurulent discharge and he has mild blurring of vision. The left eye is not affected. Other past history of note includes intermittent diarrhoea, which he says looked bloody on a couple of occasions, but he put this down to food poisoning. On examination, his blood pressure is 125/72 mmHg; he looks thin, with a body mass index of 19.
+
+Investigations:
+Investigation Result Normal value
+Haemoglobin 119 g/l 135–175 g/l
+White cell count (WCC) 8.1 × 109/l 4–11 × 109/l
+Platelets 204 × 109/l 150–400 × 109/l
+Erythrocyte sedimentation rate (ESR) 35 mm/h 0–10 mm in the 1st hour
+Sodium (Na+) 141 mmol/l 135–145 mmol/l
+Potassium (K+) 4.5 mmol/l 3.5–5.0 mmol/l
+Creatinine 130 μmol/l 50–120 µmol/l
+Intraocular pressure: reduced in the affected eye, with numerous cells seen within the aqueous.
+
+Which of the following is the most likely diagnosis?
+
+A. Conjunctivitis
+B. Acute glaucoma
+C. Anterior uveitis
+D. Anterior scleritis
+E, Herpetic ulcer
+
+Correct Answer: C
+
+Explanation:
+This is a typical presentation of anterior uveitis. Patients often complain of aching pain around the eye, photophobia and redness. Uveitis can be idiopathic or associated with systemic inflammatory conditions. The history suggests an underlying inflammatory bowel disease (eg ulcerative colitis) which is associated with recurrent episodes of anterior uveitis. The presence of inflammatory cells in the aqueous is a hallmark of anterior uveitis. Cyclopentolate to relieve ocular pain and corticosteroids to reduce inflammation are the mainstay of therapy for the condition. Tapering of corticosteroid therapy is guided by the degree of clinical response.
+
+2. A 32-year-old woman is admitted to the Acute Gynaecology Ward with per vaginum bleeding. She is 14 weeks pregnant and has had a scan confirming an intrauterine pregnancy. She reports lower abdominal cramping and bleeding for the last two days, which prompted admission to await an ultrasound scan. You are an FY1 doctor and are called to see her as she has increasing pain and is crying in distress. On examination, she is sweaty and uncomfortable. Abdomen is soft in the upper region, but firm and very tender suprapubically. Observations show temperature 38.7 °C, heart rate 130 bpm, blood pressure 95/65, respiratory rate 22 and oxygen saturations 97% on air. Checking her pad shows fresh bleeding and speculum examination is difficult due to pain, but there is a smelly discharge and you think you see tissue sitting in the os. You manage to get IV access and starts fluid resuscitation.
+
+What is the most important next step in management?
+
+A. Bloods and blood cultures
+B. Transvaginal ultrasound scan
+C. Ultrasound abdomen
+D. Give analgesia and try to repeat the speculum examination
+E. Call your registrar
+
+Correct Answer: E
+
+Explanation:
+Septic miscarriage can be life-threatening. Increasing pain, bleeding and fever should raise your suspicions, particularly with clinical signs of sepsis. Fetal tissue is often stuck in the cervical os and can be difficult to remove. Senior doctors need to know about this patient urgently, coming to review and liaising with co-ordinators to get the patient to theatre as soon as possible.
+
+I want you to generate 2 more questions (numbered from 1 to 2) in the format of the above sample questions. The questions should be on the topic of 'abdominal distension' and should be of the highest difficulty level, make them as challenging as you possibly can. One question should list the investigations (in bullet points) and then ask for the next step in management, and the next question should ask for a diagnosis. The question should have 5 possible answers (A to E). Include the correct answer and explanation as well.
+
+# Configurations
+
+Frequency penalty: 0
+Presence penalty: 0
+
+# Answer
+
+1. A 65-year-old man presents with abdominal distension and discomfort. He has a history of alcohol abuse and has lost weight recently. On examination, there is a palpable mass in the right upper quadrant of the abdomen. Investigations reveal:
+
+- Haemoglobin: 10.5 g/dL (normal range: 13.5-17.5 g/dL)
+- White cell count: 12.5 x 10^9/L (normal range: 4-11 x 10^9/L)
+- Platelets: 350 x 10^9/L (normal range: 150-400 x 10^9/L)
+- Liver function tests: elevated bilirubin and alkaline phosphatase levels
+- CT scan of the abdomen: a large mass in the liver with multiple satellite lesions
+
+What is the most appropriate next step in management?
+
+A. Refer for liver transplant
+B. Start chemotherapy
+C. Perform a liver biopsy
+D. Perform a laparotomy
+E. Start antibiotics
+
+Correct Answer: C
+
+Explanation:
+The most likely diagnosis is hepatocellular carcinoma, given the patient's history of alcohol abuse and the presence of a liver mass with satellite lesions. A liver biopsy is necessary to confirm the diagnosis and determine the stage of the cancer. Treatment options depend on the stage of the cancer and the patient's overall health, but may include surgery, chemotherapy, or radiation therapy.
+
+2. A 45-year-old woman presents with abdominal distension and discomfort. She has a history of endometriosis and has been trying to conceive for the past year. On examination, there is a palpable mass in the lower abdomen. Pelvic ultrasound reveals a large cystic mass in the left ovary.
+
+What is the most likely diagnosis?
+
+A. Ovarian cancer
+B. Endometrioma
+C. Fibroid uterus
+D. Ectopic pregnancy
+E. Pelvic inflammatory disease
+
+Correct Answer: B
+
+Explanation:
+The most likely diagnosis is an endometrioma, which is a type of ovarian cyst that forms when endometrial tissue grows in the ovary. Endometriomas are common in women with endometriosis and can cause abdominal distension and discomfort. Treatment options depend on the size and symptoms of the cyst, but may include watchful waiting, hormonal therapy, or surgery. Ovarian cancer is less likely given the patient's age and the fact that the mass is cystic. Fibroid uterus, ectopic pregnancy, and pelvic inflammatory disease are also less likely given the patient's history and ultrasound findings.
+
+
+#########################
+
+These are some sample questions extracted from the UK Medical Licensing Examination.
+
+1. A 73-year-old patient presents with a 2-hour history of sudden-onset abdominal pain, accompanied by a bowel motion and vomiting. He has a past history of non-specific heart problems and takes antihypertensive medication. He has also had a previous appendicectomy performed 45 years ago.
+Examination of the abdomen reveals a distended and generally tender abdomen with no guarding. There is a scar present in the right iliac fossa and bowel sounds are absent. Rectal examination is unremarkable. An electrocardiogram (ECG) performed is shown below:
+Given the clinical scenario, which of the following is the most likely diagnosis?
+
+A. Small bowel obstruction
+B. Large bowel obstruction
+C. Caecal volvulus
+D. Mesenteric ischaemia
+E. Ileus
+
+Correct Answer: D
+
+2. A 65-year-old man presents to the Emergency Department with anorexia, fatigue, nausea and generalised pain. He has a medical history notable for palliate prostate cancer for which he has refused treatment, and remains independent. Routine blood results confirm your suspicions:
+Investigation Result Normal value
+Haemoglobin 91 g/l 135–175 g/l
+White cell count (WCC) 8.2 × 109/l 4–11 × 109/l
+Platelets 195 × 109/l 150–400 × 109/l
+Sodium (Na+) 137 mmol/l 135–145 mmol/l
+Potassium (K+) 4.1 mmol/l 3.5–5.0 mmol/l
+Creatinine 125 ?mol/l 50–120 µmol/l
+Corrected Ca2+ 3.2 mmol/l 2.20–2.60 mmol/l
+You commence treatment with intravenous fluid resuscitation, intravenous calcitonin and one other intravenous infusion.
+In which principal way, will this other intravenous infusion correct the biochemical abnormality?
+
+A. Bind calcium in the bloodstream to enhance excretion
+B. Decrease gastrointestinal absorption of calcium
+C. Decrease renal reabsorption of calcium
+D. Increase renal secretion of calcium
+E. Inhibit the release of calcium from bones
+
+Correct Answer: E
+
+3. A 44-year-old woman presents with sudden onset of constant abdominal pain. She tells you she has a history of peptic ulcers. The pain is worse with inspiration and movement.
+On examination, there is rebound tenderness and guarding. There are absent bowel sounds. A chest X-ray shows free air under the diaphragm.
+What clinical sign tells you that the peritonitis involves the whole abdomen and is not localised?
+
+A. Pain worse on inspiration
+B. Rebound tenderness
+C. Guarding
+D. Absent bowel sounds
+E. Constant abdominal pain
+
+Correct Answer: D
+
+4. A 78-year-old man who has recently seen his GP for a change in bowel habit towards constipation arrives in the Emergency Department with a tender, distended abdomen. He has also been suffering with a chest infection recently and has known chronic kidney disease (CKD) stage 4. Bowel sounds are absent. The rectum is empty on examination. Abdominal X-ray reveals distended loops of large bowel, consistent with large bowel obstruction.
+Which one of these investigations should be performed next?
+
+A. Computed tomography (CT) scan with Gastrogaffin®
+B. Diagnostic peritoneal lavage
+C. Gastroscopy
+D. Magnetic resonance imaging (MRI) of the abdomen
+E. Ultrasound of the abdomen
+
+Correct Answer: A
+
+5. A 65-year-old Indian woman presents to the Emergency Department with vomiting and central abdominal pain. She has vomited eight times over the last 24 hours. The vomit is non-bilious and non-bloody. She also reports that she has not moved her bowels for the last four days and is not passing flatus. She reports that she had some form of radiation therapy to her abdomen ten years ago in India for ‘stomach cancer’. There is no urinary urgency or burning on urination. She migrated from India to England two months ago. She reports no other past medical or surgical history.
+Her observations and blood tests results are shown below:
+Investigation Result Normal value
+Temperature 36.9 °C
+Blood pressure 155/59 mmHg
+Heart rate 85 beats per minute
+Respiratory rate 19 breaths per minute
+Sp(O2) 96% (room air)
+White cell count 8.9 × 109/l 4–11 × 109/l
+C-reactive protein 36 mg/l 0–10 mg/l
+The patient’s urine dipstick is negative for leukocytes and nitrites. Physical examination reveals a soft but distended abdomen. No abdominal scars are visible. There is mild tenderness throughout the abdomen. Bowel sounds are hyperactive. Rectal examination reveals no stool in the rectal vault, and no blood or melaena.
+Which of the following is the most likely diagnosis?
+
+A. Acute mesenteric ischaemia
+B. Diverticulitis
+C. Pyelonephritis
+D. Small bowel obstruction
+E. Viral gastroenteritis
+
+Correct Answer: D
+
+
+I want you to generate 3 more questions (numbered from 1 to 3) in the format of the above sample questions. The questions should be on the topic of 'abdominal distension' and should be of the highest difficulty level, make them as challenging as you possibly can. The question should have 5 possible answers (A to E) and be lengthy. Include the correct answer and explanation as well.
+
+
+#############################################################
+
+
+4. A 35-year-old woman presents to the emergency department with a sudden onset of severe abdominal pain and fever. She has no significant medical history, but reports recent travel to South America where she had consumed local foods and drinks. Her vital signs are within normal limits except for a temperature of 39°C (102°F). Abdominal examination is remarkable for diffuse tenderness without rebound or guarding. Laboratory studies show elevated white blood cell count, elevated C-reactive protein, and hyponatremia with hyperkalemia. CT scan shows thickening of the small intestinal wall with mesenteric edema consistent with inflammation or infection in the bowel lumen. Which of the following is most likely responsible for her symptoms?
+
+A) Ulcerative colitis
+B) Crohn's disease
+C) Ischemic bowel disease
+D) Enterotoxigenic E.coli infection
+E) Clostridium difficile colitis
+
+Correct answer: D
+
+Explanation: The patient’s presentation suggests acute infectious gastroenteritis caused by enterotoxigenic Escherichia coli (ETEC), which commonly causes travelers’ diarrhea after ingestion of contaminated food or water in developing countries like South America.
+
+5. A 61-year-old man was admitted to hospital because he developed recurrent episodes of jaundice associated with upper abdominal discomfort over several months; his past medical history includes hypertension treated medically and chronic alcohol abuse that he denies presently consuming any alcoholic beverages at all . On physical examination there were multiple spider angiomas on his chest wall along with hepatosplenomegaly; laboratory results showed conjugated hyperbilirubinemia , increased alkaline phosphatase levels as well as high GGT levels while other liver function test results were relatively less affected.To differentiate between different etiological possibilities what would be an appropriate next step? 
+
+A- Liver biopsy 
+B- MRCP 
+C - ERCP 
+D- CT scan of the abdomen and pelvis
+E - Upper endoscopy 
+
+Correct answer: B
+
+Explanation: The clinical picture along with laboratory results raise suspicion for biliary obstruction which commonly can be due to choledocholithiasis, cholangiocarcinoma or pancreatic head malignancy. MRCP is a non-invasive diagnostic tool that provides high-quality images of the biliary tree and pancreas; it would help in identifying any dilated bile ducts as well as any structural abnormalities in the region without undue risk associated with ERCP or liver biopsy.

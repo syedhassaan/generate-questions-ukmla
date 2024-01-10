@@ -1,0 +1,138 @@
+These are some sample questions extracted from the UK Medical Licensing Examination.
+
+1. A 4-month-old child is brought to the Emergency Department with breathlessness. She has epicanthic folds and single palmar creases. Cytogenetic testing reveals an autosomal trisomy.
+   What is the most common cardiac abnormality found in children with this condition?
+
+A. Atrial septal defect
+B. Mitral stenosis
+C. Patent ductus arteriosus
+D. Ventricular septal defect
+E. Atrioventricular septal defect
+
+Correct Answer: E
+
+Explanation:
+Given the physical presentation of epicanthic folds, single creases, and an autosomal trisomy, the patient in this scenario is likely to have Down syndrome. Children with Down syndrome very commonly have some kind of congenital heart disease. It is thought that these occur in 42% of the population of Down syndrome children, with 23% of patients having more than one cardiac abnormality. The most common cardiac abnormality found in 37% of cases is a complete atrioventricular septal defect. Ventricular septal defects are the second most common type of cardiac abnormality found in children with Down syndrome, affecting 30% of patients.
+
+2. A 27-year-old lady who is 28 weeks pregnant with her second child presents in a very anxious state. She has just been at a friend’s party and has discovered that one of the children there had just developed a rash suggesting chickenpox. She is terrified the disease is going to harm her unborn child. She cannot recall if she had chickenpox as a child. Her medical record does not shed any light on the situation, and it is unclear if she has had vaccination against varicella. She does not have a rash herself and feels well. Her pregnancy has been uncomplicated to date.
+   What is the most appropriate next course of action?
+
+A. Arrange immediate administration of varicella-zoster immunoglobulin
+B. Urgently test for varicella antibodies (varicella-zoster IgG)
+C. Reassure that, even if she contracts chickenpox, it will not cause harm to the unborn baby at this stage of gestation
+D. Arrange immediate immunisation against varicella-zoster
+E. Advise that no immediate action is needed, but she should return immediately if she develops a rash, so that varicella-zoster immunoglobulin can be administered
+
+Correct Answer: B
+
+Explanation:
+Given the patient has had some exposure to chickenpox and is unsure of whether she is immune following exposure as a child, the first step is to test for immunity by checking for varicella-zoster IgG antibodies in the blood.
+If antibodies are detected, the woman is considered immune and no further action is required, unless a rash develops.
+
+3. An ST1 doctor working in Scotland issues an emergency detention certificate for an inpatient being treated for acute Crohn’s disease who was demanding to go home because voices were telling him that everyone in the hospital may kill him, and was making threats of harm towards his girlfriend. He is not delirious. You have contacted a psychiatrist, who initially told you that she would be there within the 6 hours, but has since contacted you to say that due to unforeseen circumstances she cannot attend until the next day. The patient consented to taking a sedative, which was administered 3 hours ago. He is making no attempts to leave, and there has been a marked reduction in his responses to apparent auditory hallucinations and threats towards his partner.
+
+Can you revoke the Emergency Detention Order?
+
+A. Yes, since you made the order, you can revoke it
+B. Yes, since it only applies whilst there is an urgent need for detention
+C. No, only a psychiatrist can revoke it after examining the patient
+D. No, it must run for the entire 72 hours
+E. No, it must go to a Mental Health Tribunal
+
+Correct Answer: C
+
+Explanation: The Mental Health (Care and Treatment) (Scotland) Act 2003 (amended 2015) states that a psychiatrist must examine the patient as soon as possible. If, following the examination, the psychiatrist believes that it is not necessary for the patient to be detained in hospital under the Act, he/she will then revoke the Emergency Detention Certificate.
+
+4. A 29-year-old man presents with an acutely red right eye. He also has dull aching pain affecting the eye, and he is photosensitive, with light severely worsening the pain in the eye. There is no mucopurulent discharge and he has mild blurring of vision. The left eye is not affected. Other past history of note includes intermittent diarrhoea, which he says looked bloody on a couple of occasions, but he put this down to food poisoning. On examination, his blood pressure is 125/72 mmHg; he looks thin, with a body mass index of 19.
+
+Investigations:
+Investigation Result Normal value
+Haemoglobin 119 g/l 135–175 g/l
+White cell count (WCC) 8.1 × 109/l 4–11 × 109/l
+Platelets 204 × 109/l 150–400 × 109/l
+Erythrocyte sedimentation rate (ESR) 35 mm/h 0–10 mm in the 1st hour
+Sodium (Na+) 141 mmol/l 135–145 mmol/l
+Potassium (K+) 4.5 mmol/l 3.5–5.0 mmol/l
+Creatinine 130 μmol/l 50–120 µmol/l
+Intraocular pressure: reduced in the affected eye, with numerous cells seen within the aqueous.
+
+Which of the following is the most likely diagnosis?
+
+A. Conjunctivitis
+B. Acute glaucoma
+C. Anterior uveitis
+D. Anterior scleritis
+E, Herpetic ulcer
+
+Correct Answer: C
+
+Explanation:
+This is a typical presentation of anterior uveitis. Patients often complain of aching pain around the eye, photophobia and redness. Uveitis can be idiopathic or associated with systemic inflammatory conditions. The history suggests an underlying inflammatory bowel disease (eg ulcerative colitis) which is associated with recurrent episodes of anterior uveitis. The presence of inflammatory cells in the aqueous is a hallmark of anterior uveitis. Cyclopentolate to relieve ocular pain and corticosteroids to reduce inflammation are the mainstay of therapy for the condition. Tapering of corticosteroid therapy is guided by the degree of clinical response.
+
+5. A 32-year-old woman is admitted to the Acute Gynaecology Ward with per vaginum bleeding. She is 14 weeks pregnant and has had a scan confirming an intrauterine pregnancy. She reports lower abdominal cramping and bleeding for the last two days, which prompted admission to await an ultrasound scan. You are an FY1 doctor and are called to see her as she has increasing pain and is crying in distress. On examination, she is sweaty and uncomfortable. Abdomen is soft in the upper region, but firm and very tender suprapubically. Observations show temperature 38.7 °C, heart rate 130 bpm, blood pressure 95/65, respiratory rate 22 and oxygen saturations 97% on air. Checking her pad shows fresh bleeding and speculum examination is difficult due to pain, but there is a smelly discharge and you think you see tissue sitting in the os. You manage to get IV access and starts fluid resuscitation.
+
+What is the most important next step in management?
+
+A. Bloods and blood cultures
+B. Transvaginal ultrasound scan
+C. Ultrasound abdomen
+D. Give analgesia and try to repeat the speculum examination
+E. Call your registrar
+
+Correct Answer: E
+
+Explanation:
+Septic miscarriage can be life-threatening. Increasing pain, bleeding and fever should raise your suspicions, particularly with clinical signs of sepsis. Fetal tissue is often stuck in the cervical os and can be difficult to remove. Senior doctors need to know about this patient urgently, coming to review and liaising with co-ordinators to get the patient to theatre as soon as possible.
+
+I want you to generate 3 more questions in the format of the above sample questions. The questions should be on the topic of 'abdominal distension' and should be of the highest difficulty level. Include the correct answer and explanation as well.
+
+Then create 2 more questions based on the format of the UK MLA exam which covers diagnosis, investigation and management.
+
+I want you to generate 5 more questions on the topic of
+
+########################
+
+These are some sample questions extracted from the UK Medical Licensing Examination.
+
+1. A 29-year-old man presents with an acutely red right eye. He also has dull aching pain affecting the eye, and he is photosensitive, with light severely worsening the pain in the eye. There is no mucopurulent discharge and he has mild blurring of vision. The left eye is not affected. Other past history of note includes intermittent diarrhoea, which he says looked bloody on a couple of occasions, but he put this down to food poisoning. On examination, his blood pressure is 125/72 mmHg; he looks thin, with a body mass index of 19.
+
+Investigations:
+Investigation Result Normal value
+Haemoglobin 119 g/l 135–175 g/l
+White cell count (WCC) 8.1 × 109/l 4–11 × 109/l
+Platelets 204 × 109/l 150–400 × 109/l
+Erythrocyte sedimentation rate (ESR) 35 mm/h 0–10 mm in the 1st hour
+Sodium (Na+) 141 mmol/l 135–145 mmol/l
+Potassium (K+) 4.5 mmol/l 3.5–5.0 mmol/l
+Creatinine 130 μmol/l 50–120 µmol/l
+Intraocular pressure: reduced in the affected eye, with numerous cells seen within the aqueous.
+
+Which of the following is the most likely diagnosis?
+
+A. Conjunctivitis
+B. Acute glaucoma
+C. Anterior uveitis
+D. Anterior scleritis
+E, Herpetic ulcer
+
+Correct Answer: C
+
+Explanation:
+This is a typical presentation of anterior uveitis. Patients often complain of aching pain around the eye, photophobia and redness. Uveitis can be idiopathic or associated with systemic inflammatory conditions. The history suggests an underlying inflammatory bowel disease (eg ulcerative colitis) which is associated with recurrent episodes of anterior uveitis. The presence of inflammatory cells in the aqueous is a hallmark of anterior uveitis. Cyclopentolate to relieve ocular pain and corticosteroids to reduce inflammation are the mainstay of therapy for the condition. Tapering of corticosteroid therapy is guided by the degree of clinical response.
+
+2. A 32-year-old woman is admitted to the Acute Gynaecology Ward with per vaginum bleeding. She is 14 weeks pregnant and has had a scan confirming an intrauterine pregnancy. She reports lower abdominal cramping and bleeding for the last two days, which prompted admission to await an ultrasound scan. You are an FY1 doctor and are called to see her as she has increasing pain and is crying in distress. On examination, she is sweaty and uncomfortable. Abdomen is soft in the upper region, but firm and very tender suprapubically. Observations show temperature 38.7 °C, heart rate 130 bpm, blood pressure 95/65, respiratory rate 22 and oxygen saturations 97% on air. Checking her pad shows fresh bleeding and speculum examination is difficult due to pain, but there is a smelly discharge and you think you see tissue sitting in the os. You manage to get IV access and starts fluid resuscitation.
+
+What is the most important next step in management?
+
+A. Bloods and blood cultures
+B. Transvaginal ultrasound scan
+C. Ultrasound abdomen
+D. Give analgesia and try to repeat the speculum examination
+E. Call your registrar
+
+Correct Answer: E
+
+Explanation:
+Septic miscarriage can be life-threatening. Increasing pain, bleeding and fever should raise your suspicions, particularly with clinical signs of sepsis. Fetal tissue is often stuck in the cervical os and can be difficult to remove. Senior doctors need to know about this patient urgently, coming to review and liaising with co-ordinators to get the patient to theatre as soon as possible.
+
+I want you to generate 2 more questions in the format of the above sample questions. One question should list the investigations (in bullet points) and then ask for the next step in management, and the next question should ask for a diagnosis. The questions should be on the topic of 'abdominal distension' and should be of the highest difficulty level. Include the correct answer and explanation as well.
