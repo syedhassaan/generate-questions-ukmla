@@ -1,0 +1,18 @@
+raw file provided: new test bank.docx
+txt file with questions: test bank unique.txt
+csv file with questions: unique questions.csv
+csv file with questions and generated embeddings: unique questions embeddings.csv
+generated questions: 
+
+
+### embedding files:
+
+# combined_dataset_embeddings: passmedicine_part1, passmedicine_part2, passmedicine_part3, doctorexams, geekymedics, unique question embeddings
+
+# new_dataset_embeddings: passmedicine_part1, passmedicine_part2, passmedicine_part3, doctorexams, geekymedics
+
+# unique questions embeddings: new test bank(final [US MLE])
+
+# all question embeddings: contains practices papers + 5000 question test bank embeddings (slightly wrong)
+
+# output_embeddings: contains practice paper embeddings (Slighly wrong)
