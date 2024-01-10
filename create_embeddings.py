@@ -7,7 +7,7 @@ import numpy as np
 import re
 import PyPDF2
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 # embedding model parameters
 embedding_model = "text-embedding-ada-002"
